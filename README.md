@@ -1,1 +1,4 @@
-# it-could-happen-to-us
+# it could happen to us
+
+From page 59 of the <i> ICMC Boston 2025 Conference Program, Book 1 </i>
+It Could Happen to Us is a musical video game, programmed entirely in Max; it is based on "Whack-A-Mole". The player/performer must consistently perform the task well in order to proceed to the next musical section in the game. The player's quality of performance also impacts the fidelity of the sound generators. There is only one "sample" in the piece- the Amtrak station ambience. The rest of the sounds are all synthesized in real time, and the player's performance affects aspects of instruments such as pitch, note duration, spatialization, reverb mix amounts. In addition to these modulations related to sound design, the compositional aspects of the piece itself respond to the player's performance too. For instance, a 2 note melodic cell expands unto a 5 note cell when the player performs better, various layers fade in and out, etc. The game also has a UI which reflects an authentic "gaming experience". In addition to the musical storytelling, it also presents a literary narrative in the form of texts.
